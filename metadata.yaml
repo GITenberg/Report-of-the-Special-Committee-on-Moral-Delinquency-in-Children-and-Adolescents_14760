@@ -1,0 +1,36 @@
+_repo: Report-of-the-Special-Committee-on-Moral-Delinquency-in-Children-and-Adolescents_14760
+_version: 0.1.0
+alternative_title: The Mazengarb Report (1954)
+contributor:
+  contributor:
+    agent_name: Mazengarb, O. C. (Oswald Chettle)
+    birthdate: 1890
+    deathdate: 1963
+    gutenberg_agent_id: '5772'
+    url: http://www.gutenberg.org/2009/agents/5772
+    wikipedia: http://en.wikipedia.org/wiki/Oswald_Chettle_Mazengarb
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: New Zealand. Special Committee on Moral Delinquency in Children and
+      Adolescents
+    gutenberg_agent_id: '5771'
+    url: http://www.gutenberg.org/2009/agents/5771
+description: ''
+gutenberg_bookshelf: New Zealand
+gutenberg_issued: '2005-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Juvenile delinquency -- New Zealand'
+- !lcsh 'Youth -- Sexual behavior -- New Zealand'
+title: Report of the Special Committee on Moral Delinquency in Children and Adolescents
+url: http://www.gutenberg.org/ebooks/14760
